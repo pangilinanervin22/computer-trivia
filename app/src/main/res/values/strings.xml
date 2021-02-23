@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Computer Trivia</string>
+    <string name="buttonText_True">True</string>
+    <string name="buttonText_False">False</string>
+
+    <string name="made">Created by : Ervin </string>
+    <string name="incorrect_message">Wrong!</string>
+    <string name="correct_message">Correct!</string>
+    <string name="default_score">Score : 0/10</string>
+    <string name="id_index">Question # </string>
+
+    <string name="question_0">Computers run on binary code written in 1s and 0s</string>
+    <string name="question_1">The heart of the computer is the GPU</string>
+    <string name="question_2">The CEO of facebook is Bill Gates</string>
+    <string name="question_3">USB stand for "Universal Serial Bus" </string>
+    <string name="question_4">Linux is written in C</string>
+    <string name="question_5">TikTok is originated in USA</string>
+    <string name="question_6">White hat hacker also called as good hacker</string>
+    <string name="question_7">HTML is a programming language</string>
+    <string name="question_8">Java is invented by James Gosling</string>
+    <string name="question_9">Google is a example of search engine</string>
+    <string name="question_10">1GB is equal to 1000MB </string>
+    <string name="question_11">The first original name of java is "OAK" </string>
+    <string name="question_12">First programmer in the world is a woman</string>
+    <string name="question_13">CPU also called as the brain of the computer</string>
+    <string name="question_14">"ILOVEYOU virus" was created by a chinese  </string>
+    <string name="question_15">Charles Babbage is the father of the computer</string>
+    <string name="question_16">CSS is use for styling the website </string>
+    <string name="question_17">Python Java and C++ examples of a programming languages</string>
+    <string name="question_18">IT is stand for intelligent technology</string>
+    <string name="question_19">The acronym of Computer Science is CS</string>
+    <string name="question_20">Bitcoin is illegal in the Philippines</string>
+    <string name="question_21">Power Supply is not the main source of electricity of a computer</string>
+    <string name="question_22">RAM and ROM are have same purpose and usage</string>
+    <string name="question_23">Virus, Worm, Trojan, and SpyWare are example of malware</string>
+    <string name="question_24">The Largest data unit is bits</string>
+    <string name="question_25">Elon Musk is the founder of SpaceX PayPal and Tesla</string>
+    <string name="question_26">Mark Zuckerberg is the richest man in the world</string>
+    <string name="question_27">ICT is short for information and communications technology</string>
+    <string name="question_28">JavaScript is not essential and useless for making WebPages</string>
+    <string name="question_29">Flash drive is use for storing and transferring data </string>
+    <string name="question_30">Cryptocurrency is a illegal money</string>
+
+
+</resources>
